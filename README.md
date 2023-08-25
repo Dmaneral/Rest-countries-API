@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Dmaneral/Rest-countries-API](https://github.com/Dmaneral/Rest-countries-API)
+- Live Site URL: [https://dmaneral-rest-countries-api.netlify.app/](https://dmaneral-rest-countries-api.netlify.app/)
 
 ## My process
 
